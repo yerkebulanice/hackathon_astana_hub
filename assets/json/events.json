@@ -1,0 +1,60 @@
+[
+  {
+    "$type": "Hackathon2022.OrderEvent, Hackathon2022",
+    "ClientId": {
+      "Id": 81
+    },
+    "FromLocationId": 474,
+    "ToLocationId": 826,
+    "WeightKg": 19530.0,
+    "ExpectingPriceTenge": 271497.0,
+    "ExpectingDeliveryDate": "2016-03-02T08:24:00",
+    "Date": "2016-03-01T08:24:00",
+    "OrderId": {
+      "Id": 7
+    }
+  },
+  {
+    "$type": "Hackathon2022.OrderEvent, Hackathon2022",
+    "ClientId": {
+      "Id": 92
+    },
+    "FromLocationId": 862,
+    "ToLocationId": 6790,
+    "WeightKg": 18961.0,
+    "ExpectingPriceTenge": 142373.0,
+    "ExpectingDeliveryDate": "2016-03-04T10:29:00",
+    "Date": "2016-03-01T10:29:00",
+    "OrderId": {
+      "Id": 3
+    }
+  },
+  {
+    "$type": "Hackathon2022.OfferEvent, Hackathon2022",
+    "OfferId": {
+      "Id": 36
+    },
+    "DeliveryCompanyId": {
+      "Id": 2
+    },
+    "OfferedPriceTenge": 152728.0,
+    "Date": "2016-03-01T10:44:00",
+    "OrderId": {
+      "Id": 3
+    }
+  },
+  {
+    "$type": "Hackathon2022.OfferEvent, Hackathon2022",
+    "OfferId": {
+      "Id": 45
+    },
+    "DeliveryCompanyId": {
+      "Id": 13
+    },
+    "OfferedPriceTenge": 151434.0,
+    "Date": "2016-03-01T11:17:00",
+    "OrderId": {
+      "Id": 3
+    }
+  }  
+]

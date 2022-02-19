@@ -1,0 +1,389 @@
+[
+  {
+    "LocationId": 46,
+    "Name": "Тендык",
+    "Coordinates": [
+      52.029984,
+      47.14731
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 6,
+    "Name": "Атырау",
+    "Coordinates": [
+      51.924454,
+      47.105343
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 174,
+    "Name": "Кызан",
+    "Coordinates": [
+      52.674557,
+      44.88934
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 206,
+    "Name": "Акшимирау",
+    "Coordinates": [
+      52.836056,
+      44.823097
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 364,
+    "Name": "Бесикти",
+    "Coordinates": [
+      51.92687,
+      47.284966
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 374,
+    "Name": "Геолог",
+    "Coordinates": [
+      51.94833,
+      47.149246
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 387,
+    "Name": "Алмалы",
+    "Coordinates": [
+      51.8912,
+      47.253178
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 408,
+    "Name": "Жангельдино",
+    "Coordinates": [
+      53.733433,
+      48.954456
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 409,
+    "Name": "Жаскайрат",
+    "Coordinates": [
+      53.544777,
+      48.948257
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 432,
+    "Name": "Боранкуль",
+    "Coordinates": [
+      54.470436,
+      46.20667
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 442,
+    "Name": "Коныстану",
+    "Coordinates": [
+      53.3417,
+      48.838898
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 513,
+    "Name": "Каражар",
+    "Coordinates": [
+      49.358204,
+      46.615604
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 516,
+    "Name": "Иманово",
+    "Coordinates": [
+      49.373806,
+      46.634884
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 517,
+    "Name": "Даулеткерей",
+    "Coordinates": [
+      49.35846,
+      46.622917
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 680,
+    "Name": "Акжар",
+    "Coordinates": [
+      51.950798,
+      47.21328
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 781,
+    "Name": "Северное Бузачи",
+    "Coordinates": [
+      51.62075,
+      45.245525
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 783,
+    "Name": "Тастыкулак",
+    "Coordinates": [
+      49.8334,
+      48.929108
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 800,
+    "Name": "Мукыр",
+    "Coordinates": [
+      50.038433,
+      48.999825
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 802,
+    "Name": "Сарыколь",
+    "Coordinates": [
+      49.93962,
+      48.933037
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 869,
+    "Name": "Мунайлы",
+    "Coordinates": [
+      54.550232,
+      46.758877
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 884,
+    "Name": "Жалгансай",
+    "Coordinates": [
+      51.61149,
+      47.60908
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1038,
+    "Name": "Отешкали Атамбаева",
+    "Coordinates": [
+      51.624023,
+      47.993156
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1053,
+    "Name": "Зинеден",
+    "Coordinates": [
+      50.140537,
+      46.74164
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1060,
+    "Name": "Шыныбек",
+    "Coordinates": [
+      50.960365,
+      47.209187
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1077,
+    "Name": "Таалдалар",
+    "Coordinates": [
+      49.428146,
+      46.60626
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1079,
+    "Name": "Кызылжар",
+    "Coordinates": [
+      51.595963,
+      48.20705
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1209,
+    "Name": "Есим",
+    "Coordinates": [
+      51.8956,
+      49.00421
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1322,
+    "Name": "Урочище Есекжар",
+    "Coordinates": [
+      51.28757,
+      44.378654
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1415,
+    "Name": "Урочище Када",
+    "Coordinates": [
+      51.7802,
+      44.369476
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1476,
+    "Name": "Тасшагил",
+    "Coordinates": [
+      52.96906,
+      48.87634
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1505,
+    "Name": "Мартыши",
+    "Coordinates": [
+      51.013615,
+      47.107254
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1531,
+    "Name": "Новокирпичное",
+    "Coordinates": [
+      52.01959,
+      47.153492
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1538,
+    "Name": "Сарайчик",
+    "Coordinates": [
+      51.716293,
+      47.503372
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1541,
+    "Name": "Дамба",
+    "Coordinates": [
+      51.746014,
+      46.95666
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1542,
+    "Name": "Томарлы",
+    "Coordinates": [
+      51.94909,
+      47.159664
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1543,
+    "Name": "Шокпартогай",
+    "Coordinates": [
+      53.921608,
+      47.04511
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1544,
+    "Name": "Жаманушкан",
+    "Coordinates": [
+      54.52994,
+      46.611782
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1546,
+    "Name": "Кумшиганак",
+    "Coordinates": [
+      51.673485,
+      47.97783
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1547,
+    "Name": "разъезд 17",
+    "Coordinates": [
+      51.55498,
+      47.248657
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1549,
+    "Name": "Бирлик",
+    "Coordinates": [
+      51.988506,
+      47.139133
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1550,
+    "Name": "Пешной",
+    "Coordinates": [
+      51.675053,
+      46.908176
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1557,
+    "Name": "Тендык",
+    "Coordinates": [
+      52.033375,
+      47.148655
+    ],
+    "CoordinatesSrid": 4326
+  },
+  {
+    "LocationId": 1576,
+    "Name": "Жанакора",
+    "Coordinates": [
+      52.95408,
+      48.70582
+    ],
+    "CoordinatesSrid": 4326
+  }
+]
